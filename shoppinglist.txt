@@ -7,3 +7,4 @@ shopping list:
 	- bananas
 	- apples
 	- oranges
+- toilet paper
