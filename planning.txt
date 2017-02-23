@@ -1,5 +1,6 @@
 Saturday:
 13h: make restaurant reservation
+13h30: buy food in the shop
 15h: watch football
 19h: dinner at the restaurant
 21h: meet W. and J. in the pub
