@@ -4,3 +4,6 @@ shopping list:
 - water
 - milk
 - fruit
+	- bananas
+	- apples
+	- oranges
